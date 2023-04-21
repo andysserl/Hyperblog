@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: #037536;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -38,4 +38,8 @@ margin: 0 auto;
 {
     font-size: 20px;
 
+}
+#post
+{
+    padding: 1em;
 }
